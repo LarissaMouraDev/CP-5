@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "tarefa-MotosScan",
+      "appliesTo": "/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "tarefa-MotosScan",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}
